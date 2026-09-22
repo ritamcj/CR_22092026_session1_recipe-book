@@ -9,5 +9,6 @@
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Chop potatoes.
+- Knead dough.
+- Add salt.
